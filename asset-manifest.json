@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gerald/static/css/main.ed1fbedc.chunk.css",
+    "main.js": "/gerald/static/js/main.ec2e6f8c.chunk.js",
+    "main.js.map": "/gerald/static/js/main.ec2e6f8c.chunk.js.map",
+    "runtime~main.js": "/gerald/static/js/runtime~main.0595ff9d.js",
+    "runtime~main.js.map": "/gerald/static/js/runtime~main.0595ff9d.js.map",
+    "static/js/2.2b9a7a61.chunk.js": "/gerald/static/js/2.2b9a7a61.chunk.js",
+    "static/js/2.2b9a7a61.chunk.js.map": "/gerald/static/js/2.2b9a7a61.chunk.js.map",
+    "index.html": "/gerald/index.html",
+    "precache-manifest.f499bcfd482914862ce77a8283cbd04e.js": "/gerald/precache-manifest.f499bcfd482914862ce77a8283cbd04e.js",
+    "service-worker.js": "/gerald/service-worker.js",
+    "static/css/main.ed1fbedc.chunk.css.map": "/gerald/static/css/main.ed1fbedc.chunk.css.map"
+  }
+}
