@@ -7,13 +7,8 @@
 
 Gerald, who has taken the mantle of our physical, beloved, floatatious friends, offers his humble heritage and experience in solving _your_ problems. And, instead of being a space-hogging, yellow-radiating pile of rubber, Gerald comes in modern, sleek, beautiful curves, born in the writhing fires of CSS.
 
-![Gerald!](./duck.png)
-
 Can't solve a bug? **Talk to Gerald.**
 
-
-
-
-
+![Gerald!](./duck.png)
 
 > *probably not true, but also probably not true
