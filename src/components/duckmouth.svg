@@ -1,0 +1,13 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg className="gerald-mouth" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="198px" height="76px" content="&lt;mxfile modified=&quot;2019-06-15T16:33:23.142Z&quot; host=&quot;www.draw.io&quot; agent=&quot;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36&quot; version=&quot;10.7.7&quot; etag=&quot;yKAvyDtsCaaEmJwoNXyo&quot; type=&quot;google&quot;&gt;&lt;diagram id=&quot;gXbkUZJ7_enFqbfaht8x&quot;&gt;3ZbPb4IwFID/Gq4LUMqPq07nZSeT7dxIlWaFkloH7q/fY20FRKNGnYkn+77yavu1feCgcV6/SVJm7yKl3PHdtHbQq+P7nodj+GnIVpMoQBqsJEs1clswZz/UZFq6YSldG6aREoIrVvbhQhQFXageI1KKqv/YUvC0B0qyogMwXxA+pJ8sVZmmMXZbPqNsldl/9lzTkxP7sAHrjKSi6iA0cdBYCqF0K6/HlDfy+l6mR3p3E5O0UOck+Drhm/CNWZuZl9raxcIUy6ZZC+mgUZUxReclWTSogu0FlqmcQ+RBUwpFFBMFhCGGeMk4HwvepMJYaDpNEoSAr5UUX9T2FKKA4UZmLlQqWh9dj7ezBMeLipwquYVHTAJG4QvWSeZsIZzouGp3KjD2s84mxYYRczZWu7FbfdAwBg/bRPezCZfmUp1LzsoZhK5pf5hRb6A59NADNQenNUMCFAN6WjFZl7pCLFlN00ecWGvEigzdgUh0QCS6gUj8TCKDJOqLTCJ7Rjsq/XCo0rJrVIbPpDIMo/3r/a8yo/Pr6Dll9Ji+TnlN3Lte8T2Z/gGVB664l+DrXcbPdDBxtFcs42D41omHJi27QCSE7WfYX1/nYxZNfgE=&lt;/diagram&gt;&lt;/mxfile&gt;" version="1.1" viewBox="-0.5 -0.5 198 76">
+    <defs/>
+    <g>
+        <path fill="#ff9933" stroke="none" d="M 39.5 -1 Q 79.5 -1 79.5 39 Q 79.5 79 39.5 79 Q 59.5 39 39.5 -1 Z" pointer-events="none" transform="rotate(65,59.5,39)"/>
+        <path fill="#ff9933" stroke="none" d="M 116.5 -1 Q 156.5 -1 156.5 39 Q 156.5 79 116.5 79 Q 136.5 39 116.5 -1 Z" pointer-events="none" transform="translate(0,39)scale(1,-1)translate(0,-39)rotate(-115,136.5,39)"/>
+        <ellipse cx="98" cy="15" fill="#ff9933" stroke="none" pointer-events="none" rx="15" ry="15"/>
+        <ellipse cx="13" cy="51" fill="#ff9933" stroke="none" pointer-events="none" rx="13" ry="13"/>
+        <ellipse cx="184" cy="51" fill="#ff9933" stroke="none" pointer-events="none" rx="13" ry="13"/>
+        <path fill="#ff9933" stroke="none" d="M 88 -35 Q 108 -35 108 62.5 Q 108 160 88 160 Z" pointer-events="none" transform="rotate(90,98,62.5)"/>
+        <ellipse cx="97" cy="48" fill="#ff9933" stroke="none" pointer-events="none" rx="24" ry="24"/>
+    </g>
+</svg>
