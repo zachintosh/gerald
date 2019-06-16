@@ -13,4 +13,4 @@ Can't solve a bug? **Talk to Gerald.**
 
 
 
-> *probably not true, but as probably not true
+> *probably not true, but also probably not true
